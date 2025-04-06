@@ -1,0 +1,1001 @@
+fever,cough,sore_throat,headache,fatigue,nausea,shortness_of_breath,chest_pain,rash,diarrhea,disease
+0,0,1,0,0,0,0,0,1,0,Migraine
+0,0,0,1,0,1,1,0,0,1,Allergy
+0,1,0,0,1,0,1,1,1,0,Viral Infection
+0,1,0,1,1,0,0,0,0,1,Tuberculosis
+0,1,1,1,1,0,1,1,0,1,Flu
+0,0,0,1,1,1,0,1,0,0,Severe COVID-19
+1,1,0,0,1,0,1,1,1,0,Migraine
+1,1,1,1,0,0,1,0,0,0,Allergy
+1,0,1,1,1,1,0,0,1,1,Stomach Ache
+0,1,0,1,0,0,1,0,0,1,Pneumonia
+1,1,0,0,1,1,0,0,0,0,Mild COVID-19
+0,0,0,1,0,1,1,0,0,1,Food Poisoning
+1,1,0,0,0,0,1,0,0,0,Common Cold
+0,0,0,1,0,0,1,1,0,0,Bronchitis
+1,0,1,1,0,0,0,1,1,1,Common Cold
+0,0,1,1,0,0,0,0,1,0,Sinusitis
+1,0,0,1,0,0,0,0,0,0,Mild COVID-19
+0,1,0,0,1,0,1,1,1,1,Viral Infection
+1,0,0,1,0,0,0,1,0,0,Viral Infection
+0,0,0,0,0,0,0,1,0,0,Common Cold
+0,1,1,1,0,1,0,1,1,0,Sinusitis
+1,1,0,0,1,0,0,0,1,0,Pneumonia
+0,1,1,0,1,1,0,1,0,0,Flu
+0,1,1,0,1,0,1,1,1,0,Stomach Ache
+1,0,0,1,0,1,0,1,1,0,Allergy
+0,1,0,1,0,0,1,1,0,1,Migraine
+0,1,1,0,0,0,0,1,0,0,Food Poisoning
+1,0,1,0,0,1,0,1,0,0,Lung Cancer
+1,1,0,0,0,0,1,1,1,0,Severe COVID-19
+1,1,1,0,0,1,0,1,0,0,Food Poisoning
+1,1,0,1,0,1,0,1,0,0,Flu
+1,1,0,1,1,1,1,1,1,0,Stomach Ache
+0,1,1,0,1,1,0,1,1,1,Migraine
+1,0,0,1,1,0,0,1,0,0,Common Cold
+0,1,0,1,1,0,1,1,1,0,Common Cold
+0,1,0,0,1,0,0,0,1,0,Severe COVID-19
+1,1,1,0,1,1,1,0,1,1,Sinusitis
+1,0,1,0,1,1,1,0,0,0,Allergy
+0,0,1,1,1,1,1,0,0,1,Bronchitis
+0,1,1,0,1,1,1,1,0,1,Stomach Ache
+1,0,1,1,1,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,1,1,1,0,Food Poisoning
+1,1,1,1,0,1,0,0,1,0,Common Cold
+0,0,0,0,0,0,0,1,0,0,Sinusitis
+1,0,0,0,1,0,0,1,1,1,Tuberculosis
+0,0,0,1,0,0,1,1,1,0,Food Poisoning
+0,1,1,0,1,1,1,0,1,0,Sinusitis
+1,1,1,1,1,0,0,1,1,0,Lung Cancer
+1,0,1,1,0,1,0,1,1,1,Bronchitis
+1,0,0,0,0,1,1,0,1,1,Common Cold
+0,1,0,1,0,1,1,1,1,1,Severe COVID-19
+1,1,1,1,1,0,0,0,1,0,Allergy
+0,0,1,1,1,0,0,1,0,1,Common Cold
+0,1,0,0,1,0,1,0,0,1,Mild COVID-19
+1,0,0,1,1,0,0,1,1,0,Common Cold
+0,0,1,0,0,0,1,0,1,1,Severe COVID-19
+1,1,0,0,0,0,1,0,0,0,Flu
+0,0,1,1,1,1,0,0,1,1,Mild COVID-19
+0,0,1,0,1,0,0,0,1,0,Allergy
+1,1,1,0,1,1,1,1,1,1,Common Cold
+1,1,1,0,0,0,0,1,0,0,Mild COVID-19
+1,0,1,1,0,1,1,1,1,1,Allergy
+1,1,1,1,1,0,1,0,1,1,Stomach Ache
+0,1,1,0,0,1,1,1,0,0,Allergy
+1,1,1,0,0,0,0,1,0,1,Flu
+1,0,0,1,1,1,1,1,1,0,Allergy
+1,0,0,0,1,1,1,1,0,1,Bronchitis
+1,0,1,1,1,1,1,1,1,0,Tuberculosis
+1,0,1,0,1,1,1,1,0,1,Tuberculosis
+1,0,1,0,1,0,0,1,0,0,Sinusitis
+1,1,0,1,1,1,1,0,0,0,Sinusitis
+0,0,1,0,0,1,0,1,0,0,Common Cold
+1,1,1,1,0,0,1,0,0,0,Stomach Ache
+0,1,0,0,1,1,1,1,0,1,Tuberculosis
+0,1,1,1,1,1,1,1,0,1,Pneumonia
+0,1,1,1,1,0,1,1,0,0,Lung Cancer
+1,0,1,0,0,1,0,0,0,1,Pneumonia
+1,0,0,1,1,1,0,0,0,1,Sinusitis
+0,1,1,1,1,0,1,0,0,0,Lung Cancer
+1,0,1,0,1,0,1,1,1,1,Severe COVID-19
+0,0,1,0,1,0,0,1,1,1,Common Cold
+0,1,1,0,0,0,0,1,1,1,Viral Infection
+1,0,1,0,1,1,1,0,1,0,Migraine
+1,0,1,1,0,1,1,0,0,1,Migraine
+0,0,1,0,0,0,0,0,0,0,Allergy
+0,1,0,0,1,0,0,0,0,0,Migraine
+1,0,0,1,0,0,1,0,0,1,Food Poisoning
+0,1,0,0,1,1,0,0,1,1,Flu
+1,1,0,0,1,0,0,0,1,1,Bronchitis
+1,1,1,0,0,0,1,1,0,1,Mild COVID-19
+1,1,0,1,1,1,1,1,0,1,Flu
+0,1,0,1,0,0,1,0,1,1,Lung Cancer
+0,1,1,1,0,0,0,1,0,0,Viral Infection
+1,0,1,0,1,0,1,0,0,1,Sinusitis
+1,1,0,0,0,1,0,0,0,0,Migraine
+1,1,1,1,0,1,1,1,0,0,Bronchitis
+0,0,1,1,1,1,1,1,1,0,Pneumonia
+1,1,0,1,1,1,0,0,1,0,Sinusitis
+0,0,1,1,1,0,0,1,1,0,Viral Infection
+0,1,0,1,0,1,0,1,0,1,Bronchitis
+1,1,1,0,1,0,1,0,1,1,Flu
+0,1,1,0,1,1,1,0,1,0,Flu
+0,1,1,0,0,0,0,1,0,0,Flu
+0,1,1,1,1,1,0,1,0,1,Sinusitis
+1,0,1,0,1,1,1,0,0,1,Pneumonia
+0,1,1,0,1,0,1,1,0,0,Food Poisoning
+0,0,0,0,1,1,0,1,1,1,Food Poisoning
+0,1,0,1,0,1,1,1,0,1,Allergy
+1,1,1,0,0,1,1,1,0,0,Stomach Ache
+1,0,1,1,0,0,1,1,0,0,Tuberculosis
+0,1,0,0,1,0,1,0,0,0,Tuberculosis
+1,0,1,1,0,1,1,1,0,0,Mild COVID-19
+0,1,1,1,1,1,1,0,0,0,Pneumonia
+1,1,0,0,1,0,0,1,1,0,Pneumonia
+0,1,1,0,1,0,1,1,0,1,Severe COVID-19
+0,0,1,0,1,0,0,0,1,1,Allergy
+1,1,0,0,0,1,0,0,1,0,Tuberculosis
+1,0,0,0,1,1,0,0,1,0,Bronchitis
+0,0,1,1,0,1,0,1,0,0,Food Poisoning
+0,0,1,1,0,1,1,1,0,1,Severe COVID-19
+0,0,1,0,0,1,1,0,1,1,Allergy
+0,1,0,1,0,0,0,0,1,1,Viral Infection
+1,1,0,0,1,1,0,1,1,0,Lung Cancer
+1,1,1,1,0,1,1,1,1,0,Flu
+1,0,1,1,0,0,1,1,1,1,Stomach Ache
+0,1,1,1,0,1,1,1,0,0,Stomach Ache
+1,0,0,0,1,0,0,0,0,1,Bronchitis
+0,0,1,1,1,1,0,0,1,1,Sinusitis
+0,0,0,0,1,1,0,1,1,1,Bronchitis
+1,1,0,0,0,0,1,0,1,0,Severe COVID-19
+1,0,1,1,0,0,1,0,0,0,Tuberculosis
+1,0,1,1,1,0,0,0,1,1,Lung Cancer
+1,1,0,0,1,0,1,1,1,0,Tuberculosis
+0,1,0,0,0,1,0,0,1,0,Viral Infection
+1,0,1,0,1,0,1,0,0,0,Bronchitis
+1,0,0,0,0,1,0,1,0,1,Severe COVID-19
+1,1,0,1,1,1,0,0,0,1,Mild COVID-19
+0,1,0,1,1,1,1,0,1,0,Mild COVID-19
+0,1,1,0,0,0,0,1,1,1,Allergy
+1,1,0,0,1,1,1,1,1,0,Stomach Ache
+1,0,0,1,0,0,1,1,1,1,Flu
+1,0,1,1,1,1,0,1,0,0,Sinusitis
+0,1,1,1,0,0,0,1,1,1,Food Poisoning
+0,0,1,0,0,0,0,1,1,1,Viral Infection
+0,1,1,0,1,1,1,1,1,1,Severe COVID-19
+1,0,1,1,0,1,1,0,0,1,Bronchitis
+1,0,0,0,0,0,0,1,1,1,Migraine
+1,1,0,0,0,1,1,1,1,0,Viral Infection
+1,1,1,1,0,0,1,1,0,1,Tuberculosis
+1,1,1,1,1,1,0,1,1,1,Tuberculosis
+1,0,1,0,1,1,1,1,0,0,Severe COVID-19
+1,0,0,0,0,0,0,0,0,0,Mild COVID-19
+0,0,0,0,1,1,1,0,1,1,Common Cold
+0,0,0,0,1,0,0,1,1,0,Severe COVID-19
+0,0,1,0,1,1,1,1,0,1,Flu
+1,0,1,1,0,0,1,1,0,0,Stomach Ache
+1,1,0,1,0,0,0,1,1,0,Stomach Ache
+0,1,1,1,1,0,1,1,0,0,Mild COVID-19
+1,0,1,1,0,1,1,0,0,0,Mild COVID-19
+1,1,1,0,0,0,1,1,0,0,Viral Infection
+0,0,0,1,1,0,0,1,0,1,Lung Cancer
+0,1,1,0,1,1,0,1,1,0,Bronchitis
+0,0,1,1,0,0,0,1,0,1,Allergy
+1,1,1,1,1,1,0,0,1,0,Viral Infection
+1,0,0,0,0,1,1,1,1,0,Food Poisoning
+0,1,0,0,0,1,0,0,0,0,Common Cold
+1,0,0,0,1,1,0,0,0,0,Sinusitis
+0,1,1,0,1,0,0,1,1,1,Bronchitis
+0,1,1,0,1,1,1,1,1,0,Allergy
+1,0,0,1,0,1,0,1,1,0,Sinusitis
+0,1,0,1,1,0,0,0,1,1,Bronchitis
+0,0,0,0,1,0,1,1,0,0,Pneumonia
+1,0,0,1,0,1,1,1,1,1,Food Poisoning
+1,1,0,1,1,0,1,1,1,0,Migraine
+0,0,1,1,1,0,0,1,0,1,Migraine
+1,1,1,1,1,1,0,1,0,0,Mild COVID-19
+0,0,0,0,0,0,1,0,0,0,Common Cold
+0,1,1,0,1,1,0,0,1,0,Sinusitis
+1,0,1,0,0,0,0,0,0,1,Severe COVID-19
+1,0,1,1,1,0,0,1,0,0,Stomach Ache
+1,1,0,0,0,0,1,1,1,0,Pneumonia
+0,0,1,1,0,0,1,0,0,1,Migraine
+0,1,0,1,0,0,1,1,1,0,Pneumonia
+1,0,0,1,0,0,1,1,1,0,Mild COVID-19
+1,0,1,1,1,0,1,0,1,0,Flu
+1,0,1,0,1,1,1,0,0,0,Lung Cancer
+1,1,0,0,0,0,1,1,1,0,Food Poisoning
+0,1,1,0,1,1,1,0,0,0,Allergy
+0,1,1,1,1,0,0,0,1,1,Mild COVID-19
+0,1,1,0,1,0,1,0,0,1,Stomach Ache
+1,1,1,1,1,1,0,1,1,0,Allergy
+1,1,1,1,0,1,1,1,1,1,Bronchitis
+0,0,0,1,0,1,1,0,1,1,Sinusitis
+0,1,0,1,1,0,1,1,1,1,Food Poisoning
+0,0,0,1,0,0,1,1,1,0,Sinusitis
+0,0,1,1,1,1,0,1,0,1,Stomach Ache
+0,0,0,1,1,1,1,0,1,1,Mild COVID-19
+1,1,0,1,0,0,0,1,0,0,Tuberculosis
+0,0,1,1,1,0,1,0,0,1,Bronchitis
+0,1,1,1,0,0,0,1,0,0,Tuberculosis
+1,1,0,1,0,1,1,1,1,1,Food Poisoning
+1,1,0,1,0,0,1,0,0,1,Food Poisoning
+0,1,1,0,1,1,0,1,0,0,Allergy
+0,1,1,0,1,0,1,0,0,1,Lung Cancer
+1,1,1,1,1,0,0,0,0,1,Migraine
+1,0,1,1,0,0,1,1,0,1,Stomach Ache
+0,0,1,0,1,1,1,0,1,0,Tuberculosis
+0,1,1,0,0,0,0,0,1,1,Allergy
+1,1,1,1,0,0,1,0,1,0,Allergy
+0,0,1,0,1,1,0,1,1,1,Flu
+1,1,1,1,1,1,0,0,1,1,Lung Cancer
+0,1,0,1,1,1,1,1,0,1,Pneumonia
+0,0,1,0,0,0,1,1,0,1,Allergy
+1,0,1,0,1,1,0,1,0,0,Sinusitis
+0,1,0,0,0,0,1,0,0,0,Mild COVID-19
+0,0,1,0,1,0,1,0,0,1,Flu
+0,1,1,1,0,1,0,0,0,0,Allergy
+1,1,0,0,1,1,0,0,0,0,Lung Cancer
+1,1,1,0,0,1,0,0,1,0,Severe COVID-19
+0,0,1,1,0,0,1,1,0,0,Bronchitis
+0,0,1,1,0,1,1,1,0,1,Pneumonia
+0,0,0,1,0,0,0,1,1,1,Stomach Ache
+0,0,1,0,1,0,0,0,1,1,Flu
+1,1,0,0,0,0,1,0,1,0,Allergy
+0,0,0,0,0,1,1,1,0,1,Sinusitis
+0,0,1,1,1,0,1,0,1,1,Common Cold
+1,0,1,0,1,0,0,0,0,0,Pneumonia
+0,0,1,1,1,0,0,0,1,0,Stomach Ache
+1,1,0,1,0,0,0,0,0,1,Mild COVID-19
+1,1,1,0,1,0,1,0,1,1,Migraine
+1,1,1,0,0,0,0,1,0,0,Common Cold
+1,0,1,1,0,0,0,1,1,0,Tuberculosis
+1,0,0,0,1,1,1,0,0,0,Stomach Ache
+0,0,1,0,0,1,1,1,1,1,Sinusitis
+0,0,0,0,0,0,0,0,1,1,Flu
+1,0,1,1,1,1,0,0,0,1,Pneumonia
+0,1,0,0,0,1,1,0,1,1,Tuberculosis
+0,1,1,0,0,1,0,0,0,0,Migraine
+0,0,1,1,0,1,0,0,0,0,Lung Cancer
+0,0,1,0,0,1,0,0,1,1,Stomach Ache
+1,0,1,0,0,1,1,1,0,0,Bronchitis
+0,1,1,1,1,0,0,1,1,0,Viral Infection
+0,0,1,1,1,1,1,1,1,1,Food Poisoning
+0,0,1,0,1,1,0,0,0,0,Sinusitis
+0,0,1,1,0,0,0,1,1,0,Food Poisoning
+0,0,1,1,0,1,0,0,0,0,Common Cold
+1,0,1,0,0,1,0,1,0,0,Allergy
+0,1,0,1,1,0,1,1,1,0,Lung Cancer
+1,1,0,1,0,0,1,1,1,0,Common Cold
+1,0,0,1,0,0,1,0,1,0,Food Poisoning
+0,0,1,1,0,1,0,0,0,1,Flu
+0,0,1,1,1,0,1,1,1,1,Flu
+1,0,0,1,0,0,1,0,1,1,Pneumonia
+1,0,1,0,0,0,1,1,0,1,Tuberculosis
+1,0,0,0,1,0,0,1,1,1,Flu
+0,1,1,0,0,1,0,1,0,1,Lung Cancer
+0,0,0,0,0,1,0,1,0,1,Lung Cancer
+1,1,0,1,0,1,1,1,0,1,Mild COVID-19
+1,1,0,1,0,0,0,0,1,1,Tuberculosis
+0,1,1,1,0,1,1,0,1,0,Viral Infection
+0,0,1,0,0,0,0,0,0,1,Stomach Ache
+0,0,1,1,0,0,1,1,1,1,Common Cold
+1,0,1,0,0,0,0,0,1,1,Severe COVID-19
+1,1,1,0,0,1,1,0,1,0,Food Poisoning
+0,0,1,1,1,0,1,1,1,1,Pneumonia
+0,0,1,1,1,1,1,0,0,1,Stomach Ache
+1,1,0,0,0,1,1,0,0,0,Migraine
+0,0,0,1,0,1,0,1,1,1,Flu
+0,0,1,1,1,0,1,1,1,0,Severe COVID-19
+0,1,0,1,0,0,0,0,0,0,Stomach Ache
+0,0,1,0,0,0,0,1,1,1,Stomach Ache
+1,1,1,0,1,1,1,0,0,1,Bronchitis
+1,1,0,1,0,1,1,1,1,1,Sinusitis
+0,0,0,0,1,1,0,0,1,1,Stomach Ache
+1,1,0,0,1,0,1,1,1,0,Tuberculosis
+1,0,1,0,1,0,1,0,0,1,Sinusitis
+1,1,1,1,1,1,0,1,0,0,Migraine
+0,1,1,1,0,0,0,0,1,1,Lung Cancer
+0,1,0,0,1,1,0,1,0,0,Migraine
+0,0,1,0,0,1,1,1,1,1,Common Cold
+0,1,0,1,0,0,0,0,0,1,Flu
+1,1,0,0,0,1,1,1,1,1,Tuberculosis
+1,1,1,0,0,1,0,0,0,0,Common Cold
+0,0,1,0,1,1,0,0,0,0,Flu
+1,1,1,0,1,1,0,0,0,1,Flu
+1,0,1,0,0,1,0,0,1,0,Sinusitis
+0,1,1,1,0,0,1,0,1,1,Common Cold
+0,0,1,0,0,0,0,1,0,1,Severe COVID-19
+1,1,0,0,0,0,1,1,1,1,Flu
+0,0,0,0,1,1,1,1,0,1,Tuberculosis
+0,1,1,1,1,1,1,1,0,0,Common Cold
+0,0,1,1,1,0,1,1,0,0,Mild COVID-19
+0,1,1,0,0,1,1,0,0,1,Bronchitis
+0,1,0,1,1,1,0,0,0,0,Mild COVID-19
+1,0,0,1,1,0,1,1,0,0,Stomach Ache
+1,0,0,1,1,1,0,1,1,1,Mild COVID-19
+0,0,1,1,0,0,0,1,0,1,Severe COVID-19
+0,0,1,1,1,1,1,0,0,0,Food Poisoning
+1,1,0,0,0,1,0,1,0,1,Migraine
+0,1,0,1,0,1,0,1,0,0,Lung Cancer
+1,0,1,0,0,1,1,0,0,0,Bronchitis
+1,1,1,0,1,1,1,1,1,0,Bronchitis
+1,1,0,0,0,1,1,0,0,1,Food Poisoning
+1,1,1,1,0,0,0,1,0,0,Migraine
+1,0,1,1,0,0,1,0,0,1,Pneumonia
+0,1,0,1,0,1,1,1,1,0,Sinusitis
+0,1,0,1,0,0,1,1,0,0,Allergy
+0,1,0,1,1,1,0,0,1,0,Allergy
+0,0,1,0,1,1,1,0,1,0,Pneumonia
+0,1,1,0,1,0,0,1,1,1,Bronchitis
+1,0,0,1,1,0,0,0,1,1,Pneumonia
+1,1,1,0,1,1,1,0,1,0,Flu
+0,0,0,0,0,0,1,0,0,1,Flu
+0,0,1,1,0,0,0,0,0,1,Bronchitis
+0,1,1,1,1,1,1,1,0,1,Viral Infection
+0,0,0,0,1,0,1,1,0,1,Lung Cancer
+1,1,0,1,0,0,0,1,1,0,Food Poisoning
+0,0,0,0,0,1,0,1,0,1,Viral Infection
+0,0,0,0,1,0,0,0,0,1,Flu
+1,0,1,0,0,1,1,1,0,0,Bronchitis
+0,0,1,1,1,1,1,0,1,1,Tuberculosis
+0,1,0,0,1,1,1,0,1,1,Food Poisoning
+1,1,0,0,0,1,0,0,1,0,Common Cold
+0,1,0,0,1,1,0,1,1,0,Severe COVID-19
+0,1,0,1,1,0,0,0,0,1,Bronchitis
+0,1,1,0,0,1,0,0,1,1,Migraine
+1,1,1,1,0,0,1,0,1,1,Bronchitis
+0,1,1,1,0,1,1,0,1,1,Severe COVID-19
+1,1,0,0,1,0,0,0,1,0,Allergy
+1,0,0,1,1,0,1,1,1,0,Stomach Ache
+0,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,0,0,1,1,1,0,0,Tuberculosis
+0,1,0,1,1,0,0,1,1,0,Migraine
+1,0,0,0,1,0,0,0,1,0,Pneumonia
+1,1,1,0,1,0,1,1,1,0,Sinusitis
+1,0,0,1,1,1,0,0,0,0,Stomach Ache
+0,1,1,1,0,0,1,1,1,1,Bronchitis
+1,1,0,1,1,0,1,1,1,1,Stomach Ache
+0,0,0,1,0,0,0,1,1,0,Common Cold
+0,0,1,1,0,0,1,0,1,0,Stomach Ache
+1,1,0,0,1,1,0,0,1,0,Bronchitis
+0,0,0,1,0,0,0,0,1,1,Stomach Ache
+1,0,0,0,0,1,1,1,1,0,Migraine
+1,1,0,1,0,1,0,0,1,1,Severe COVID-19
+1,1,1,1,0,1,1,1,0,1,Flu
+1,0,0,1,1,1,0,1,0,1,Food Poisoning
+0,0,1,1,1,0,1,0,0,1,Migraine
+0,1,0,0,0,0,1,0,0,0,Lung Cancer
+0,0,1,1,1,1,1,1,0,1,Bronchitis
+0,0,1,1,0,1,1,0,1,0,Mild COVID-19
+1,0,0,0,1,0,1,1,1,0,Migraine
+1,1,1,1,0,1,1,0,1,1,Stomach Ache
+1,1,0,0,0,0,1,0,1,1,Allergy
+1,0,0,1,1,0,1,1,1,1,Bronchitis
+0,1,0,0,0,0,1,1,0,1,Sinusitis
+1,1,1,1,0,1,0,1,0,0,Severe COVID-19
+1,1,1,1,0,1,1,1,0,0,Food Poisoning
+1,1,0,0,0,1,0,1,1,1,Bronchitis
+1,1,1,1,1,1,0,0,0,0,Sinusitis
+0,0,0,1,0,0,0,1,0,0,Pneumonia
+0,1,0,0,1,1,0,0,1,1,Allergy
+0,0,0,1,1,1,1,1,1,0,Tuberculosis
+1,1,1,1,1,0,0,1,1,1,Allergy
+1,0,0,0,1,1,1,0,1,1,Stomach Ache
+1,0,0,1,0,1,1,1,0,0,Stomach Ache
+1,0,1,0,1,0,1,1,1,1,Flu
+0,0,1,0,1,1,1,1,0,1,Common Cold
+0,0,0,1,1,0,1,0,0,0,Mild COVID-19
+0,1,1,1,1,1,1,0,1,0,Tuberculosis
+0,1,1,0,1,0,0,1,1,0,Migraine
+1,1,0,0,0,1,0,0,1,1,Sinusitis
+1,0,0,0,1,1,1,0,1,0,Tuberculosis
+0,0,1,1,0,0,1,0,1,0,Common Cold
+1,0,1,0,0,0,1,0,1,0,Allergy
+0,0,1,0,1,1,1,0,0,1,Allergy
+1,0,1,1,1,1,0,0,1,1,Sinusitis
+0,0,0,1,1,1,1,1,0,1,Common Cold
+1,0,1,0,1,0,1,0,1,1,Food Poisoning
+0,0,0,0,0,0,0,0,0,1,Common Cold
+1,1,1,0,1,0,0,0,0,1,Pneumonia
+1,0,1,1,1,0,1,0,0,1,Migraine
+0,0,0,1,0,0,0,0,1,0,Severe COVID-19
+1,1,0,0,0,1,1,0,1,1,Severe COVID-19
+1,1,1,1,0,0,1,1,1,1,Stomach Ache
+0,0,1,0,0,1,0,1,0,0,Pneumonia
+1,0,0,0,1,1,0,0,1,1,Tuberculosis
+0,1,1,0,1,0,0,1,1,0,Bronchitis
+0,1,0,1,0,0,1,1,1,1,Pneumonia
+0,0,1,0,1,0,1,0,1,0,Stomach Ache
+1,0,0,1,1,1,0,0,1,0,Common Cold
+1,1,0,1,1,0,0,1,0,1,Bronchitis
+0,0,0,0,1,1,1,0,0,1,Food Poisoning
+0,1,1,0,1,0,1,1,0,1,Migraine
+0,1,0,0,0,0,0,0,1,0,Flu
+1,1,1,0,1,0,0,0,1,1,Allergy
+0,1,0,1,0,0,1,0,1,0,Common Cold
+0,1,1,1,0,0,1,1,0,1,Flu
+1,1,0,0,0,1,0,0,0,1,Stomach Ache
+0,0,1,1,1,1,0,1,0,1,Pneumonia
+1,0,0,1,1,0,0,1,0,1,Allergy
+1,1,1,1,0,0,0,0,0,1,Viral Infection
+0,1,0,0,1,0,0,0,1,0,Food Poisoning
+1,1,1,1,1,0,0,0,0,0,Bronchitis
+1,0,0,0,0,1,0,1,0,1,Food Poisoning
+0,1,1,1,0,0,0,0,0,1,Pneumonia
+1,1,0,0,0,0,0,1,1,1,Tuberculosis
+1,1,0,1,1,1,0,0,1,1,Pneumonia
+0,1,0,1,0,0,1,1,1,1,Severe COVID-19
+1,0,1,1,0,0,1,1,0,0,Bronchitis
+0,1,1,1,1,0,0,1,0,1,Food Poisoning
+0,0,0,0,1,1,0,1,0,1,Common Cold
+0,1,0,0,0,0,0,1,1,1,Mild COVID-19
+1,0,0,0,0,0,1,0,1,1,Pneumonia
+1,0,0,1,1,1,1,0,0,0,Severe COVID-19
+0,0,0,0,0,1,0,0,0,1,Flu
+0,0,1,0,0,1,0,1,1,0,Sinusitis
+1,1,1,0,1,0,1,1,0,0,Sinusitis
+1,1,0,0,0,0,0,1,1,1,Food Poisoning
+1,1,0,1,1,1,0,0,1,0,Common Cold
+1,0,0,1,1,0,1,1,0,0,Sinusitis
+1,0,1,1,1,0,0,1,1,1,Bronchitis
+0,0,0,1,1,1,1,0,0,1,Mild COVID-19
+1,1,1,0,1,1,0,0,1,1,Allergy
+1,0,1,1,0,1,0,0,1,1,Sinusitis
+1,0,1,0,1,1,1,0,1,0,Common Cold
+0,0,1,0,1,0,0,1,1,1,Tuberculosis
+0,0,0,0,1,1,0,0,1,0,Bronchitis
+0,1,1,0,0,1,0,1,0,1,Sinusitis
+1,1,1,0,1,0,0,1,0,0,Pneumonia
+0,1,1,1,0,1,0,0,0,1,Food Poisoning
+1,0,0,0,1,0,0,1,0,0,Allergy
+1,1,1,1,0,0,1,0,0,1,Sinusitis
+1,1,0,0,0,1,1,1,0,1,Severe COVID-19
+1,1,0,0,1,0,1,1,1,0,Food Poisoning
+0,0,1,0,1,0,1,1,1,1,Migraine
+0,1,1,0,1,0,1,1,1,0,Flu
+1,0,1,1,0,1,0,1,1,0,Bronchitis
+1,1,1,0,0,0,0,0,0,0,Sinusitis
+1,1,0,0,1,1,1,1,1,0,Bronchitis
+1,0,1,0,1,0,0,1,0,1,Tuberculosis
+1,1,1,1,1,1,1,0,0,1,Viral Infection
+1,1,1,0,1,0,0,0,0,0,Mild COVID-19
+1,0,0,0,1,1,1,0,1,1,Mild COVID-19
+1,1,0,0,1,0,1,0,1,1,Severe COVID-19
+0,0,1,1,0,1,0,0,1,1,Viral Infection
+0,0,1,0,1,0,1,0,1,1,Mild COVID-19
+1,1,1,1,1,0,0,1,1,0,Bronchitis
+0,0,1,0,1,1,0,0,0,1,Bronchitis
+1,1,1,0,0,0,0,1,1,0,Migraine
+1,0,0,1,0,0,0,1,1,1,Mild COVID-19
+0,0,1,0,1,0,0,0,1,1,Mild COVID-19
+0,1,1,1,1,0,1,0,1,1,Food Poisoning
+0,0,1,1,1,1,1,1,0,1,Stomach Ache
+1,0,0,1,0,1,0,0,0,0,Viral Infection
+0,1,1,0,1,1,0,0,0,0,Bronchitis
+0,0,0,0,0,1,0,0,0,1,Flu
+1,1,1,1,1,0,0,1,0,1,Common Cold
+1,1,0,1,0,1,0,1,0,1,Viral Infection
+1,0,0,1,1,0,0,0,0,1,Pneumonia
+1,0,0,0,1,1,0,1,1,0,Mild COVID-19
+1,1,1,0,0,0,1,1,0,1,Sinusitis
+1,0,0,1,1,0,1,1,0,0,Stomach Ache
+0,1,1,0,1,1,0,1,0,0,Common Cold
+0,1,1,0,1,1,1,0,0,1,Common Cold
+1,0,0,1,0,0,0,0,0,1,Mild COVID-19
+0,0,0,0,0,0,1,0,1,0,Pneumonia
+0,0,1,0,0,0,1,1,1,1,Bronchitis
+0,1,0,0,0,1,0,0,1,0,Tuberculosis
+1,0,1,0,0,0,0,1,0,0,Pneumonia
+0,0,0,0,1,1,1,0,0,0,Viral Infection
+1,1,0,0,0,0,1,0,1,1,Viral Infection
+0,0,0,0,1,0,1,0,1,0,Allergy
+1,1,0,0,0,0,1,1,0,1,Bronchitis
+1,0,0,0,0,0,0,1,0,0,Lung Cancer
+1,1,0,1,0,0,1,0,0,0,Migraine
+1,0,0,1,1,0,1,0,0,1,Food Poisoning
+0,1,0,1,1,0,1,0,0,0,Flu
+1,1,1,0,1,0,1,0,0,0,Viral Infection
+1,0,1,1,1,0,1,0,0,1,Migraine
+0,0,1,0,0,1,0,1,1,1,Pneumonia
+1,1,0,0,0,1,0,0,1,1,Flu
+0,1,1,0,1,0,1,1,0,1,Food Poisoning
+1,0,0,1,1,0,1,1,1,0,Pneumonia
+1,0,1,0,0,1,1,1,0,1,Viral Infection
+0,0,0,1,0,0,1,0,0,1,Sinusitis
+1,1,0,0,1,1,1,1,0,1,Viral Infection
+1,1,1,0,0,1,0,0,1,0,Flu
+0,0,1,0,0,1,0,0,0,1,Viral Infection
+0,1,1,1,1,0,1,0,0,0,Tuberculosis
+1,1,1,1,1,1,1,1,0,1,Sinusitis
+0,1,1,1,0,0,1,1,1,0,Allergy
+1,0,0,0,0,0,0,0,1,0,Food Poisoning
+0,0,0,1,1,0,1,1,0,1,Common Cold
+1,1,0,1,1,0,0,1,1,1,Tuberculosis
+1,1,0,1,0,0,0,1,0,1,Migraine
+1,1,0,1,0,0,0,1,0,0,Mild COVID-19
+0,1,0,1,1,0,1,1,0,1,Food Poisoning
+0,1,1,1,1,1,0,0,1,1,Severe COVID-19
+0,1,1,0,0,0,0,1,1,1,Bronchitis
+1,0,0,1,1,1,0,1,0,0,Stomach Ache
+1,1,0,1,1,1,1,0,0,0,Sinusitis
+1,0,1,1,0,1,0,0,0,1,Flu
+1,1,1,1,1,0,1,0,1,0,Allergy
+1,1,0,1,0,0,1,1,1,1,Sinusitis
+0,0,0,0,0,1,1,1,1,1,Bronchitis
+1,0,0,0,1,1,1,1,1,0,Allergy
+0,0,0,1,1,0,0,0,0,1,Food Poisoning
+0,1,1,0,1,0,0,0,0,0,Sinusitis
+0,0,0,0,1,0,0,0,1,1,Flu
+0,0,1,0,1,0,0,1,0,0,Tuberculosis
+0,0,1,0,0,0,1,1,1,0,Tuberculosis
+0,0,0,0,0,1,0,0,0,0,Lung Cancer
+1,0,1,0,0,1,1,1,0,0,Food Poisoning
+0,1,0,0,1,1,1,0,0,1,Stomach Ache
+1,1,1,1,0,1,1,1,0,0,Lung Cancer
+1,0,0,1,0,1,1,0,0,0,Bronchitis
+0,0,0,1,0,1,0,1,0,0,Lung Cancer
+1,1,1,1,1,1,1,1,0,1,Sinusitis
+1,1,0,0,0,0,0,0,1,0,Lung Cancer
+1,0,1,0,0,1,1,0,1,1,Sinusitis
+1,0,0,1,0,1,1,1,1,1,Common Cold
+0,1,0,1,1,0,1,1,1,0,Mild COVID-19
+1,1,0,0,1,1,1,1,1,1,Common Cold
+0,0,1,1,0,1,1,0,1,1,Lung Cancer
+1,0,0,0,0,1,0,0,1,0,Common Cold
+1,0,1,1,1,1,0,1,0,1,Stomach Ache
+1,0,1,0,0,1,1,1,0,1,Stomach Ache
+0,1,0,0,1,1,0,1,1,0,Flu
+0,1,1,0,1,1,0,1,0,1,Sinusitis
+1,1,0,1,1,1,1,0,0,0,Migraine
+1,1,1,0,0,1,1,0,0,0,Sinusitis
+1,1,1,0,0,1,1,1,0,1,Migraine
+1,0,0,0,0,0,0,1,1,1,Stomach Ache
+1,0,0,0,1,0,0,1,1,0,Common Cold
+1,0,0,0,1,1,0,1,1,0,Allergy
+0,0,0,1,1,0,0,0,1,1,Lung Cancer
+0,1,0,0,0,0,0,1,1,1,Bronchitis
+0,1,1,0,1,1,1,0,1,0,Food Poisoning
+1,0,0,0,0,1,1,1,1,0,Migraine
+1,1,0,1,1,1,0,0,1,0,Tuberculosis
+1,1,1,0,1,0,1,1,1,1,Flu
+0,1,0,1,1,1,1,0,0,0,Allergy
+0,1,0,1,1,0,0,0,0,0,Lung Cancer
+1,1,1,0,1,0,1,1,0,0,Allergy
+1,1,0,0,0,0,0,1,0,1,Allergy
+0,1,1,1,0,0,1,0,0,0,Stomach Ache
+1,1,0,0,0,0,1,1,1,1,Migraine
+0,1,0,1,0,1,0,0,1,1,Mild COVID-19
+0,1,1,0,0,1,0,1,1,0,Stomach Ache
+1,0,0,0,0,1,0,1,1,0,Viral Infection
+1,1,1,1,0,0,0,1,0,1,Lung Cancer
+0,0,1,1,0,1,0,1,0,0,Sinusitis
+1,1,1,1,1,1,1,0,1,1,Tuberculosis
+1,0,0,0,0,0,0,0,1,1,Mild COVID-19
+1,0,1,0,1,1,1,1,1,0,Tuberculosis
+0,1,0,0,1,0,0,1,0,0,Bronchitis
+0,1,0,0,1,0,1,0,1,0,Bronchitis
+0,1,0,0,0,1,1,1,1,0,Common Cold
+1,1,0,0,0,1,1,0,0,1,Sinusitis
+0,0,1,0,0,0,0,1,1,1,Allergy
+0,1,1,1,1,0,1,0,1,0,Stomach Ache
+1,1,1,0,1,1,0,1,1,0,Food Poisoning
+1,0,0,1,0,1,1,1,0,1,Allergy
+1,0,1,1,0,0,0,0,1,1,Bronchitis
+1,1,1,0,0,0,1,0,0,1,Stomach Ache
+1,1,1,1,1,1,0,0,0,0,Bronchitis
+1,0,1,0,0,1,0,0,0,1,Stomach Ache
+1,1,1,1,1,0,0,0,0,0,Common Cold
+0,0,0,1,0,0,1,0,0,1,Tuberculosis
+1,1,0,0,0,0,1,1,1,0,Tuberculosis
+0,1,1,0,1,0,0,1,1,1,Bronchitis
+1,0,1,1,1,1,0,0,0,1,Viral Infection
+0,1,1,1,0,1,1,1,1,0,Migraine
+1,1,1,0,0,1,1,0,1,1,Severe COVID-19
+1,0,0,1,0,1,0,0,0,0,Flu
+1,1,1,0,0,0,0,1,1,1,Allergy
+0,0,1,1,0,0,0,0,1,1,Severe COVID-19
+0,1,0,0,0,1,1,0,0,0,Pneumonia
+0,0,0,0,1,0,1,1,1,0,Food Poisoning
+1,0,0,0,1,1,0,0,1,1,Allergy
+0,1,1,1,1,0,0,1,0,0,Lung Cancer
+1,1,1,0,1,0,0,0,0,1,Allergy
+1,0,1,0,0,0,1,1,1,1,Food Poisoning
+1,0,1,0,1,1,0,1,1,1,Severe COVID-19
+0,0,1,1,0,1,0,0,1,1,Tuberculosis
+0,0,1,0,1,1,0,0,1,1,Food Poisoning
+0,0,0,1,1,0,1,1,0,0,Sinusitis
+0,1,0,0,1,0,1,1,0,0,Stomach Ache
+0,0,0,1,0,1,0,1,0,1,Stomach Ache
+1,1,1,1,1,1,1,0,0,0,Mild COVID-19
+0,0,0,1,1,0,0,1,0,1,Food Poisoning
+1,0,0,0,1,1,1,1,1,1,Allergy
+0,1,0,1,1,0,0,1,0,0,Flu
+0,1,1,1,1,1,1,1,0,0,Mild COVID-19
+1,1,0,1,0,1,1,0,1,1,Mild COVID-19
+1,0,0,0,1,0,0,0,0,0,Pneumonia
+0,0,0,1,0,0,1,0,1,1,Mild COVID-19
+0,1,1,0,1,0,1,1,1,0,Flu
+0,1,0,0,1,0,0,1,1,0,Food Poisoning
+0,0,0,1,1,0,1,0,1,1,Flu
+0,0,0,0,1,1,0,1,0,1,Stomach Ache
+0,1,0,1,0,0,1,0,0,0,Stomach Ache
+1,0,0,0,1,0,0,1,1,0,Mild COVID-19
+1,0,0,0,1,1,1,1,1,0,Viral Infection
+1,0,0,0,1,0,1,0,0,1,Tuberculosis
+1,1,1,1,1,0,1,1,0,1,Severe COVID-19
+0,0,0,1,0,0,0,1,1,1,Flu
+0,1,0,1,1,1,1,0,0,0,Migraine
+1,0,0,0,1,1,0,0,1,0,Mild COVID-19
+1,0,1,1,0,0,0,1,0,1,Mild COVID-19
+0,0,0,0,0,0,0,1,0,1,Common Cold
+1,1,0,1,0,1,1,1,1,0,Mild COVID-19
+1,1,0,0,0,1,1,1,1,0,Food Poisoning
+0,0,0,1,0,0,0,0,1,1,Flu
+0,1,1,0,1,1,0,0,1,0,Pneumonia
+1,0,0,1,0,1,0,0,0,0,Flu
+0,0,1,0,1,1,0,0,0,0,Stomach Ache
+1,0,1,0,0,1,1,1,1,0,Common Cold
+1,1,0,0,0,0,0,0,0,1,Mild COVID-19
+1,0,0,0,0,0,0,1,1,1,Viral Infection
+0,0,1,1,1,1,1,0,0,0,Viral Infection
+0,1,1,0,0,0,0,1,0,1,Mild COVID-19
+1,1,1,1,1,0,0,1,0,1,Common Cold
+0,0,1,0,0,1,1,1,0,1,Common Cold
+1,0,0,1,0,0,0,1,1,0,Food Poisoning
+0,0,0,0,1,0,0,1,0,1,Tuberculosis
+0,0,0,0,1,0,0,0,1,0,Migraine
+1,1,0,1,1,0,1,0,0,0,Tuberculosis
+0,0,1,1,1,1,0,0,0,1,Severe COVID-19
+0,0,1,0,1,0,0,1,0,0,Viral Infection
+1,1,1,0,1,1,1,1,1,1,Bronchitis
+0,0,0,0,1,0,1,0,1,1,Tuberculosis
+1,1,0,0,0,1,1,1,0,0,Bronchitis
+1,1,1,1,1,1,1,1,1,1,Allergy
+1,0,1,0,1,0,1,0,1,0,Flu
+1,0,0,1,0,1,1,1,1,0,Allergy
+1,0,1,1,1,1,1,0,1,0,Tuberculosis
+0,0,1,0,1,1,1,0,1,0,Stomach Ache
+0,1,1,0,1,0,0,1,0,1,Severe COVID-19
+1,0,1,1,1,1,1,0,0,0,Food Poisoning
+1,1,0,1,0,1,0,1,0,1,Mild COVID-19
+1,0,0,0,0,0,1,0,0,0,Stomach Ache
+1,0,0,1,0,1,0,1,0,0,Stomach Ache
+1,0,0,0,1,1,0,1,0,0,Severe COVID-19
+1,1,0,1,0,1,1,0,0,0,Stomach Ache
+0,1,1,1,1,0,0,1,1,1,Sinusitis
+1,0,1,0,0,1,1,1,0,0,Common Cold
+0,0,1,1,0,0,1,1,0,1,Flu
+1,1,1,0,1,0,0,1,0,0,Mild COVID-19
+1,1,1,0,1,0,0,1,0,0,Mild COVID-19
+1,1,0,0,0,1,0,1,1,0,Common Cold
+0,0,1,0,1,0,0,0,1,0,Allergy
+0,0,0,1,0,0,1,1,1,0,Common Cold
+1,0,0,1,0,0,0,0,1,0,Severe COVID-19
+0,0,0,0,0,0,0,1,0,1,Migraine
+0,1,1,0,0,0,0,1,1,0,Food Poisoning
+0,1,0,1,0,0,1,1,0,0,Lung Cancer
+1,1,0,0,1,0,1,1,0,1,Food Poisoning
+1,0,1,0,1,1,0,0,0,0,Flu
+1,0,1,0,0,0,0,1,1,1,Stomach Ache
+0,0,0,1,1,0,1,1,0,1,Sinusitis
+0,0,1,1,0,0,0,0,0,1,Allergy
+1,0,0,1,0,0,0,0,0,0,Bronchitis
+0,0,0,1,1,1,0,0,0,1,Migraine
+1,1,1,0,1,1,0,1,1,1,Mild COVID-19
+1,1,0,1,0,1,1,0,1,0,Allergy
+1,1,1,1,1,1,1,1,0,1,Mild COVID-19
+0,0,0,0,0,1,1,1,1,1,Severe COVID-19
+1,1,1,0,1,0,0,1,0,0,Severe COVID-19
+1,1,1,0,1,1,0,0,1,0,Severe COVID-19
+0,0,1,1,0,1,0,0,0,0,Lung Cancer
+1,0,0,1,0,1,1,1,1,1,Flu
+0,1,0,1,0,1,1,0,0,1,Flu
+1,1,1,1,0,0,1,0,0,0,Viral Infection
+0,1,0,0,0,0,0,0,1,1,Bronchitis
+0,0,0,1,0,1,0,1,0,1,Migraine
+1,1,0,0,0,1,0,0,0,0,Common Cold
+1,1,1,1,1,1,1,1,1,1,Severe COVID-19
+1,1,0,1,1,0,0,1,1,0,Flu
+1,0,1,1,1,1,0,0,1,0,Common Cold
+1,1,0,1,1,0,1,1,1,0,Sinusitis
+0,0,0,0,1,0,1,1,0,1,Lung Cancer
+0,0,0,0,0,0,1,0,0,1,Severe COVID-19
+0,1,1,0,0,1,0,1,0,0,Stomach Ache
+1,1,0,0,1,0,1,0,0,0,Bronchitis
+0,0,1,0,1,1,0,1,0,0,Lung Cancer
+1,1,0,0,0,1,0,1,1,0,Severe COVID-19
+0,1,1,0,1,0,0,1,1,0,Bronchitis
+1,0,1,1,1,0,1,0,0,0,Common Cold
+0,1,1,1,0,0,1,1,1,1,Lung Cancer
+1,0,1,1,0,1,0,0,1,0,Severe COVID-19
+1,0,0,1,1,1,0,0,0,0,Common Cold
+1,0,0,1,1,0,0,0,1,1,Common Cold
+0,1,1,0,1,0,0,0,0,1,Bronchitis
+0,1,0,1,1,1,1,1,0,0,Flu
+1,0,0,1,1,0,0,1,1,1,Allergy
+0,1,0,0,1,0,1,1,0,0,Tuberculosis
+0,0,0,0,1,1,0,0,0,0,Flu
+1,0,0,0,1,1,0,1,0,0,Viral Infection
+1,1,0,1,1,1,0,0,0,0,Allergy
+1,0,0,0,1,1,0,1,0,1,Allergy
+1,1,0,1,1,0,0,0,1,0,Bronchitis
+0,1,0,1,1,1,0,0,0,1,Flu
+1,0,1,0,1,1,1,0,0,1,Stomach Ache
+0,1,0,0,0,1,1,0,1,1,Bronchitis
+0,0,0,1,1,0,1,1,1,0,Viral Infection
+0,0,0,1,1,0,1,0,1,1,Food Poisoning
+1,1,1,1,0,1,0,1,1,1,Pneumonia
+0,0,0,0,0,0,1,1,0,1,Allergy
+1,1,0,1,0,0,0,1,1,0,Pneumonia
+1,0,0,0,0,1,0,1,0,1,Allergy
+1,0,1,0,0,1,1,1,1,1,Bronchitis
+1,0,1,0,1,1,0,1,0,1,Food Poisoning
+0,0,1,0,1,1,0,0,1,1,Viral Infection
+0,1,0,1,0,0,1,0,1,1,Food Poisoning
+1,0,1,0,1,1,0,0,1,1,Migraine
+0,0,1,0,0,1,1,1,0,0,Mild COVID-19
+1,0,1,1,1,0,1,1,1,0,Flu
+0,0,0,1,0,0,0,1,1,0,Sinusitis
+1,1,0,1,0,0,0,0,1,0,Tuberculosis
+1,0,1,0,0,0,0,0,0,0,Sinusitis
+0,0,1,0,0,0,0,1,1,1,Migraine
+0,1,1,1,0,1,0,1,0,1,Food Poisoning
+1,0,1,0,0,0,0,0,1,0,Sinusitis
+0,1,0,1,1,1,1,1,0,0,Viral Infection
+0,1,1,1,1,0,1,0,1,0,Tuberculosis
+0,0,0,0,1,0,0,1,1,1,Tuberculosis
+0,0,0,0,1,1,1,1,1,0,Pneumonia
+1,1,0,0,1,0,1,0,0,0,Stomach Ache
+1,0,0,1,1,1,1,1,0,0,Bronchitis
+0,0,1,1,1,0,1,1,0,0,Viral Infection
+0,1,0,0,1,0,1,0,0,0,Common Cold
+1,1,1,0,1,0,1,1,1,0,Common Cold
+1,0,1,0,1,0,0,1,1,0,Tuberculosis
+1,1,0,1,0,1,0,1,1,0,Pneumonia
+1,0,1,0,0,0,1,0,1,0,Allergy
+1,0,0,0,0,1,0,1,1,0,Allergy
+0,0,1,1,0,0,0,0,0,0,Severe COVID-19
+0,0,0,0,1,0,0,0,1,1,Severe COVID-19
+1,1,0,0,0,1,0,0,0,0,Flu
+1,0,0,0,0,0,1,1,0,1,Migraine
+1,0,1,0,0,0,0,1,1,0,Flu
+1,0,0,0,0,1,1,0,1,0,Severe COVID-19
+1,1,0,1,1,1,1,0,0,0,Tuberculosis
+1,0,1,1,1,0,0,1,1,0,Allergy
+0,1,1,1,1,1,1,1,1,0,Tuberculosis
+1,1,1,1,0,1,0,1,0,0,Common Cold
+0,0,1,1,0,0,0,1,1,0,Allergy
+1,0,0,0,0,0,0,0,1,0,Stomach Ache
+1,0,0,0,1,0,0,0,1,0,Flu
+0,1,0,0,1,0,1,1,1,1,Common Cold
+1,0,0,0,0,0,0,0,1,1,Mild COVID-19
+1,1,0,1,0,1,0,1,0,0,Common Cold
+0,1,0,0,1,1,1,1,1,0,Food Poisoning
+1,0,1,0,0,0,1,1,0,0,Viral Infection
+0,0,0,0,1,0,0,0,0,1,Bronchitis
+0,1,0,0,1,0,1,0,1,1,Tuberculosis
+1,1,1,0,0,1,1,0,0,0,Stomach Ache
+1,0,1,0,0,1,0,0,0,0,Tuberculosis
+0,1,1,0,1,1,1,1,0,1,Bronchitis
+0,0,1,0,0,0,1,0,1,0,Allergy
+1,0,0,1,1,1,0,0,0,1,Mild COVID-19
+1,1,0,0,1,0,1,1,1,1,Tuberculosis
+1,1,1,1,0,1,1,1,0,0,Migraine
+0,0,0,1,1,0,1,0,0,1,Pneumonia
+1,1,1,1,0,0,0,0,1,1,Food Poisoning
+0,1,1,1,0,1,0,1,1,0,Mild COVID-19
+0,0,1,0,1,0,1,1,1,0,Common Cold
+1,1,1,0,0,0,0,1,1,0,Mild COVID-19
+1,0,1,0,0,0,1,1,1,0,Stomach Ache
+1,1,0,1,1,1,0,0,0,0,Food Poisoning
+0,0,1,0,1,1,0,1,1,0,Tuberculosis
+1,0,0,0,0,1,0,1,0,1,Migraine
+0,1,1,0,1,1,0,1,1,1,Food Poisoning
+1,1,0,0,1,1,1,0,0,1,Stomach Ache
+1,0,0,0,0,0,1,0,1,0,Viral Infection
+0,1,1,0,0,1,1,0,0,1,Severe COVID-19
+1,1,1,0,1,0,1,1,1,1,Lung Cancer
+0,0,1,0,0,0,0,1,1,1,Bronchitis
+1,0,1,0,1,0,1,0,1,0,Food Poisoning
+0,1,0,0,0,0,1,1,0,1,Flu
+0,1,0,0,0,0,1,0,0,1,Food Poisoning
+0,0,0,1,0,0,1,1,0,1,Allergy
+0,0,0,1,0,0,0,1,1,0,Mild COVID-19
+1,0,1,0,1,0,1,0,1,0,Stomach Ache
+1,1,1,0,0,1,0,0,0,0,Severe COVID-19
+1,0,0,1,0,0,0,0,0,0,Pneumonia
+0,0,1,0,0,0,0,1,1,1,Flu
+1,1,1,1,1,1,0,1,0,0,Sinusitis
+1,0,1,0,0,1,1,1,1,1,Pneumonia
+1,1,0,1,1,0,1,0,0,1,Sinusitis
+1,1,0,0,0,1,1,0,1,0,Food Poisoning
+1,0,1,0,0,1,0,1,0,1,Food Poisoning
+0,0,1,1,0,0,0,1,0,1,Stomach Ache
+1,1,0,0,0,1,1,0,1,1,Mild COVID-19
+0,1,1,0,0,1,0,0,1,1,Stomach Ache
+0,0,1,0,0,1,0,1,1,1,Food Poisoning
+1,0,1,1,0,1,1,1,1,0,Pneumonia
+0,0,0,0,0,0,1,1,0,0,Food Poisoning
+0,0,1,0,0,0,1,0,1,1,Stomach Ache
+1,0,0,1,0,0,1,0,1,1,Viral Infection
+0,1,1,1,1,1,0,0,1,1,Food Poisoning
+0,0,0,0,1,0,0,0,0,1,Tuberculosis
+1,0,1,0,1,1,1,0,0,0,Food Poisoning
+1,1,0,1,0,0,1,1,0,1,Pneumonia
+0,1,0,0,0,0,1,0,1,0,Viral Infection
+1,1,1,0,0,1,1,0,0,1,Viral Infection
+1,0,1,1,1,0,0,1,1,0,Stomach Ache
+0,1,1,1,0,0,0,0,0,0,Common Cold
+1,0,0,0,1,0,1,1,1,0,Sinusitis
+1,0,0,0,1,1,1,0,0,0,Bronchitis
+1,1,0,0,1,0,0,0,1,1,Common Cold
+1,1,1,0,0,1,0,0,0,1,Pneumonia
+1,0,1,0,0,0,1,0,0,0,Pneumonia
+1,1,1,1,1,1,1,1,1,1,Food Poisoning
+1,1,1,0,1,0,0,1,0,0,Common Cold
+0,1,1,0,0,0,1,0,1,1,Tuberculosis
+1,1,1,1,1,1,1,0,0,1,Pneumonia
+1,1,1,1,0,0,1,0,1,0,Sinusitis
+0,1,1,1,0,1,0,1,0,0,Bronchitis
+0,0,1,1,0,1,1,0,0,1,Sinusitis
+0,0,1,0,0,1,0,1,0,0,Food Poisoning
+0,1,1,1,0,1,1,1,0,1,Food Poisoning
+0,0,1,0,1,0,1,1,0,1,Mild COVID-19
+0,1,1,0,0,1,1,1,1,1,Stomach Ache
+1,1,0,0,1,0,0,1,0,1,Viral Infection
+1,0,1,0,1,0,1,1,0,0,Flu
+1,0,1,1,1,0,0,0,0,0,Mild COVID-19
+0,0,0,1,1,0,1,0,0,0,Bronchitis
+0,0,0,0,0,1,0,1,1,0,Severe COVID-19
+1,1,0,0,1,1,0,1,0,0,Migraine
+0,0,1,1,1,1,0,1,1,1,Flu
+1,1,1,0,0,1,1,0,1,0,Common Cold
+1,0,1,0,1,1,1,0,0,1,Viral Infection
+0,1,1,0,0,0,1,1,1,0,Sinusitis
+1,0,1,1,1,0,1,0,1,1,Stomach Ache
+0,0,0,0,0,0,0,1,1,1,Tuberculosis
+0,0,1,1,0,0,1,0,0,0,Food Poisoning
+0,0,1,0,1,1,0,0,0,1,Sinusitis
+0,0,0,1,0,0,0,0,0,0,Pneumonia
+1,1,0,1,0,1,0,0,1,1,Viral Infection
+0,0,1,1,1,0,0,0,1,0,Migraine
+0,1,0,0,1,1,1,1,0,0,Pneumonia
+0,1,1,0,0,1,1,0,0,1,Migraine
+1,0,0,0,1,0,0,1,0,0,Flu
+1,0,1,0,1,0,0,0,1,0,Stomach Ache
+1,1,0,0,0,0,0,1,0,1,Stomach Ache
+0,1,1,0,0,1,0,1,1,0,Common Cold
+0,0,0,0,0,1,0,0,0,0,Allergy
+1,0,1,0,1,1,0,1,0,1,Flu
+0,0,1,0,1,1,0,1,1,1,Severe COVID-19
+0,1,1,0,0,1,1,1,1,0,Allergy
+0,1,0,0,1,0,0,0,1,1,Pneumonia
+1,0,1,1,1,1,0,0,1,1,Stomach Ache
+1,1,0,0,0,1,0,1,0,1,Food Poisoning
+0,1,1,0,0,1,1,1,0,0,Sinusitis
+1,1,1,0,1,1,0,0,0,1,Severe COVID-19
+0,0,1,1,1,0,1,1,1,1,Pneumonia
+0,1,1,1,0,1,1,0,1,0,Food Poisoning
+1,0,1,0,0,1,1,0,1,0,Sinusitis
+1,1,0,0,0,0,0,0,0,0,Viral Infection
+1,1,0,0,0,1,1,0,1,0,Food Poisoning
+0,0,1,0,0,0,0,1,1,1,Stomach Ache
+1,0,0,1,1,1,1,1,1,1,Allergy
+1,0,1,0,0,0,0,1,1,0,Bronchitis
+0,0,1,0,0,0,1,0,0,1,Viral Infection
+1,1,1,0,1,0,1,0,1,0,Flu
+0,1,1,1,0,1,0,1,1,0,Stomach Ache
+0,0,0,1,0,1,1,1,1,0,Stomach Ache
+0,1,0,0,1,0,0,0,1,1,Lung Cancer
+0,0,0,1,0,0,0,0,1,1,Stomach Ache
+0,1,0,1,1,0,0,0,1,1,Lung Cancer
+1,1,1,0,0,0,0,0,1,1,Mild COVID-19
+0,1,0,0,1,1,1,0,1,1,Food Poisoning
+0,0,0,0,1,1,1,0,1,1,Sinusitis
+1,1,1,0,0,1,1,0,0,1,Migraine
+0,0,0,0,0,1,0,1,0,1,Lung Cancer
+1,0,1,1,0,0,1,1,1,1,Allergy
+1,0,1,0,0,0,1,0,1,1,Viral Infection
+0,1,0,1,0,1,0,0,0,0,Stomach Ache
+0,0,1,1,0,1,0,1,1,0,Flu
+0,0,1,0,1,0,0,0,1,1,Bronchitis
+0,1,1,0,1,0,1,1,1,1,Viral Infection
+1,1,0,0,0,1,1,1,1,0,Flu
+0,1,1,0,1,1,0,1,1,1,Common Cold
+1,1,0,1,0,1,1,1,1,1,Lung Cancer
+1,1,0,1,1,0,1,0,1,1,Bronchitis
+0,0,0,1,0,0,0,1,0,1,Pneumonia
+0,0,1,0,0,1,0,1,0,1,Migraine
+0,0,0,0,0,1,1,0,0,1,Migraine
+0,0,1,0,1,1,0,1,0,0,Stomach Ache
+0,0,0,0,1,0,1,1,1,0,Mild COVID-19
+0,0,1,1,1,1,1,0,0,1,Mild COVID-19
+1,0,1,0,1,1,1,0,1,0,Common Cold
+1,0,1,1,1,0,1,1,0,0,Allergy
+0,1,0,0,0,1,1,0,0,1,Sinusitis
+1,0,0,1,1,0,1,0,1,1,Migraine
+1,1,1,0,0,1,0,1,0,0,Flu
+0,0,1,0,0,1,1,0,1,0,Viral Infection
+1,1,0,1,0,1,1,1,1,1,Allergy
+0,1,0,1,1,1,1,0,1,0,Mild COVID-19
+0,1,1,0,0,1,0,0,1,0,Flu
+1,1,0,0,1,0,0,1,0,1,Migraine
+1,1,1,1,1,1,1,0,0,0,Migraine
+1,0,1,0,0,1,1,1,1,0,Migraine
+0,0,0,0,0,1,0,1,0,0,Mild COVID-19
+1,1,1,1,0,0,1,1,1,1,Viral Infection
+1,0,0,0,1,0,1,1,1,1,Viral Infection
+1,1,0,0,1,1,1,1,0,0,Allergy
+0,0,1,1,0,0,1,1,0,1,Pneumonia
+1,0,1,1,1,0,1,1,0,0,Lung Cancer
+1,1,0,1,0,0,1,0,0,0,Tuberculosis
+0,1,0,0,1,0,1,0,1,0,Common Cold
+1,1,0,1,0,1,1,0,0,0,Tuberculosis
+1,0,0,1,0,1,0,1,0,0,Viral Infection
+1,0,1,1,0,1,0,0,0,0,Allergy
+1,0,0,0,0,1,1,0,0,1,Tuberculosis
+0,1,0,1,1,0,1,0,1,1,Migraine
+1,0,0,1,1,1,1,0,1,1,Food Poisoning
+1,0,0,1,0,0,1,1,1,0,Viral Infection
+1,0,0,1,0,1,1,0,0,0,Mild COVID-19
+1,1,1,0,1,0,1,0,0,1,Food Poisoning
+0,0,1,1,0,1,0,0,1,1,Stomach Ache
+1,1,0,1,1,1,1,1,1,0,Tuberculosis
+0,1,1,1,1,0,0,0,1,0,Tuberculosis
+0,1,0,0,1,0,1,1,1,0,Allergy
+0,0,1,1,0,0,0,0,1,0,Allergy
+1,0,1,0,1,0,1,1,0,1,Mild COVID-19
+0,0,1,0,1,0,1,1,1,1,Viral Infection
+0,1,1,0,0,0,0,1,1,1,Common Cold
+1,0,0,0,1,0,0,0,1,1,Stomach Ache
+0,1,0,1,1,1,1,0,1,1,Stomach Ache
+0,1,0,1,0,1,0,0,1,0,Stomach Ache
+1,0,1,1,1,0,1,1,1,0,Mild COVID-19
+1,1,1,1,0,0,1,1,0,0,Bronchitis
+1,0,1,1,0,1,1,0,0,1,Common Cold
+1,1,1,1,1,0,1,0,1,1,Mild COVID-19
+1,1,0,0,1,0,1,0,0,0,Allergy
+0,1,1,1,1,1,0,1,0,0,Common Cold
+0,0,1,0,1,1,1,1,0,0,Severe COVID-19
+0,1,0,0,1,1,0,0,1,1,Stomach Ache
+1,0,1,0,1,0,1,1,0,1,Stomach Ache
+0,1,1,1,1,0,0,0,0,1,Bronchitis
+1,1,1,1,1,1,0,1,1,1,Mild COVID-19
+0,1,1,0,0,1,1,1,0,0,Viral Infection
+1,0,0,1,1,1,1,1,1,0,Bronchitis
+0,1,1,1,0,1,1,0,1,0,Flu
+0,1,0,0,0,1,0,0,1,1,Migraine
+1,1,1,1,0,1,1,0,1,1,Severe COVID-19
+1,0,0,1,1,0,1,1,0,0,Stomach Ache
+1,1,0,0,0,0,0,1,0,1,Allergy
+1,0,1,0,1,0,0,1,1,0,Migraine
+1,0,1,0,0,0,1,1,0,1,Tuberculosis
+1,0,1,0,0,1,0,0,0,1,Lung Cancer
+1,0,1,1,0,0,1,1,0,1,Pneumonia
+1,1,1,1,0,0,0,1,0,0,Food Poisoning
+0,0,1,0,1,0,1,0,1,1,Severe COVID-19
+1,1,1,1,1,1,1,0,0,0,Common Cold
+0,1,1,1,1,0,1,1,1,1,Allergy
+0,1,1,1,0,0,0,1,0,0,Viral Infection
+1,1,0,1,0,1,1,1,1,0,Lung Cancer
+0,1,1,0,0,1,0,1,0,0,Bronchitis
+0,0,1,1,1,0,0,0,1,0,Flu
+1,0,1,0,0,1,0,0,1,0,Migraine
+0,1,0,0,1,1,0,0,0,0,Common Cold
+0,0,0,1,1,0,0,1,0,0,Mild COVID-19
+0,1,0,0,0,1,1,0,1,0,Mild COVID-19
+0,1,0,1,1,1,1,0,1,1,Sinusitis
+1,0,1,1,1,1,0,0,1,0,Viral Infection
+1,1,0,0,0,1,1,0,1,1,Viral Infection
+0,0,0,0,0,1,1,1,1,0,Bronchitis
+0,0,1,0,0,1,0,0,0,1,Lung Cancer
+1,1,0,1,1,1,1,0,1,1,Food Poisoning
+1,1,1,1,1,0,1,0,1,1,Allergy
+1,1,0,0,0,1,1,1,0,1,Stomach Ache
+1,0,0,1,1,0,0,0,0,1,Bronchitis
+1,0,1,1,0,1,1,0,0,0,Sinusitis
+1,1,1,0,1,0,0,1,1,0,Severe COVID-19
+0,0,1,0,1,1,1,0,0,0,Severe COVID-19
+1,1,0,0,1,1,0,1,1,1,Sinusitis
+1,0,0,0,1,1,1,1,0,0,Severe COVID-19
+0,1,0,1,1,1,1,0,0,0,Pneumonia
+0,0,1,0,0,1,1,1,1,0,Flu
+0,1,1,1,0,1,1,0,1,0,Food Poisoning
+1,0,1,0,1,1,0,1,0,0,Tuberculosis
+1,0,0,0,0,0,1,0,1,1,Tuberculosis
+0,1,0,1,1,0,0,1,0,0,Lung Cancer
+0,1,0,1,0,1,0,1,1,1,Stomach Ache
+0,0,0,0,0,0,0,1,1,1,Migraine
+0,1,1,1,0,1,0,0,1,1,Flu
+1,1,1,0,1,1,0,0,1,1,Sinusitis
+1,0,0,0,0,0,0,0,0,1,Pneumonia
+0,1,1,1,0,1,0,0,0,0,Flu
+0,0,1,0,1,1,1,1,1,0,Severe COVID-19
+0,1,0,0,1,0,1,0,0,0,Migraine
+0,1,0,0,1,1,1,1,0,0,Mild COVID-19
+1,0,1,1,0,1,1,0,0,0,Allergy
+0,0,0,1,1,0,0,0,1,0,Sinusitis
+1,1,1,0,1,1,1,0,0,1,Migraine
+0,0,0,0,0,0,1,1,0,1,Food Poisoning
