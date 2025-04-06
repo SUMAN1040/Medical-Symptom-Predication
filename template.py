@@ -9,6 +9,8 @@ list_of_files = [
     "src/predictor.py",
     "src/visualizer.py",
     "public/index.html",
+    "public/static/css/styles.css",
+    "public/static/js/scripts.js",
     "app.py",
     "main.py",
     "requirements.txt",

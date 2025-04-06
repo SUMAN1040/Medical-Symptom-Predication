@@ -1,0 +1,88 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f9f9f9;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .container {
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .actions {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+  
+  #tableSearch {
+    flex: 1;
+    padding: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+    min-width: 60%;
+  }
+  
+  #toggleMode {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .table-container {
+    overflow-x: auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background: white;
+    padding: 10px;
+  }
+  
+  table.data {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  table.data th,
+  table.data td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  table.data th {
+    background-color: #f0f0f0;
+    position: sticky;
+    top: 0;
+  }
+  
+  table.data tr:hover {
+    background-color: #f9f9f9;
+  }
+  
+  /* Dark mode support */
+  body.dark-mode {
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+  }
+  
+  body.dark-mode .table-container {
+    background-color: #2c2c2c;
+  }
+  
+  body.dark-mode table.data th {
+    background-color: #444;
+  }
+  
+  body.dark-mode table.data td {
+    color: #ddd;
+  }
+  
