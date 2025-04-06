@@ -1,25 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Medical Dataset Viewer</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="static/css/styles.css">
+<meta charset="UTF-8">
+<title>Medical Dataset Viewer</title>
+<link rel="stylesheet" href="static/css/styles.css">
 </head>
 <body>
 
-<div class="container">
-    <h1>🩺 Medical Dataset Viewer</h1>
+<!-- Header -->
+<header>
+    <div class="logo">🩺 MedoX</div>
+    <nav>
+    <!-- <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Insights</a></li>
+        <li><a href="#">About</a></li>
+    </ul> -->
+    </nav>
+</header>
+
+<!-- Main content -->
+<main>
+    <h1>Medical Dataset Viewer</h1>
 
     <div class="actions">
         <input type="text" id="tableSearch" placeholder="🔍 Search symptoms or diseases...">
-        <button id="toggleMode">🌙 Toggle Dark Mode</button>
+        <button id="toggleTable">🧩 Toggle Table</button>
+        <button id="exportCSV">📥 Export to CSV</button>
+        <button id="toggleMode">🌙 Dark Mode</button>
     </div>
+
+    <div class="table-info" id="tableInfo">Total Rows: <span id="rowCount">0</span></div>
 
     <div class="table-container">
         {{ table | safe }}
     </div>
-</div>
+    </main>
+
+<!-- Footer -->
+<footer>
+    &copy; 2025 Medical Insights Viewer • Made with ❤️ by Suman Kumar Dey
+</footer>
 
 <script src="static/js/scripts.js"></script>
 </body>
