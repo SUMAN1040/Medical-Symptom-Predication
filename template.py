@@ -8,6 +8,8 @@ list_of_files = [
     "src/model_trainer.py",
     "src/predictor.py",
     "src/visualizer.py",
+    "public/index.html",
+    "app.py",
     "main.py",
     "requirements.txt",
     "README.md"
